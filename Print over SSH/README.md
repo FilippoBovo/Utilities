@@ -10,7 +10,7 @@
 
 5. Drag *Actions -> Files & Folders -> Rename Finder Items* into the workflow, select *Name Single Item*, *Full Name* and call the file *FileToSSHPrinter.pdf*. At this point the workflow looks like this:
 
-  ![Workflow](Workflow.png)
+  ![Workflow](Images/Workflow.png)
 
 6. Drag *Actions -> Utilities -> Run AppleScript* into the workflow and paste the following text into the text field:
 
@@ -46,7 +46,7 @@ where *user@server* is your SSH address. Remember to replace the name of the def
 
 To use the script, open the printer dialog normally, click on the dropdown menu on the bottom-left corner of the window and select *Print over SSH* or the alternative name you gave to the script.
 
-![Printer Dialog](PrinterDialog.png)
+![Printer Dialog](Images/PrinterDialog.png)
 
 After following the onscreen instructions, a terminal will open requiring to insert the password of the SSH user in order to print.
 
