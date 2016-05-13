@@ -2,7 +2,7 @@
 
 This is a guide to make a utility that allows to print over SSH in Mac OS X. In other words, you can use your laptop to print using a printer connected to a server accessible through SSH.
 
-![How to Print](Images/HowToPrint.gif)
+<center> ![How to Print](Images/HowToPrint.gif) </center>
 
 ##Direct installation
 The tutorial can be skipped by downloading the *Print over SSH.zip* file above. Double click on the unzipped file and open with Automator. Follow steps 8 and 9 below and save. Double click on the unzipped file and click install. To print over SSH, see the *usage* section below. To remove the password prompt, see the *No Password* section below.
