@@ -11,6 +11,7 @@ The tutorial can be skipped by downloading the *Print over SSH.zip* file above. 
 
 
 ##Tutorial
+In this tutorial we will use Automator, AppleScript and Bash script. Let's start:
 
 1. Launch *Automator* and create a new *Print Plugin*.
 
